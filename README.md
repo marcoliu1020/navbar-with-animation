@@ -11,6 +11,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
     <h1 align="center">Navbar with animation</h1>
+    <a href="https://codesandbox.io/p/github/marcoliu1020/navbar-with-animation/main?file=%2F.codesandbox%2Ftasks.json&workspaceId=bc87caaa-1f72-4b4a-9759-089264ac06e3">View Demo</a>
 </div>
 
 
