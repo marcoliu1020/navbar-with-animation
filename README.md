@@ -17,7 +17,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<video src="demo.mp4" controls title="Title"></video>
+![Alt text](img_settings.jpg)
+![Alt text](img_settings_content.jpg)
 
 
 ### Built With
